@@ -13,7 +13,7 @@ The primary dataset consists of monthly and annual temperature anomalies from 18
 The project implements a **Linear Regression** model via the `scikit-learn` framework. This model calculates the line of best fit by minimizing the sum of squared residuals, allowing for a linear approximation of the climatic trend over the last 70 years.
 
 ### Model Visualization
-![Global Temperature Trend](results_graph.png)
+![Global Temperature Trend](result_graph.png)
 
 ## Key Findings
 * **Current Trend:** The model identifies a consistent positive slope, indicating an acceleration in global mean temperatures.
